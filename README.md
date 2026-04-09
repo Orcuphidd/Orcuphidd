@@ -1,4 +1,4 @@
-![Xingqiu's](https://komarev.com/ghpvc/?username=Orcuphidd&color=blue)
+![My Counter](https://komarev.com/ghpvc/?username=Orcuphidd&label=Xingqiu's&color=blue)
 <!--
 **Orcuphidd/Orcuphidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
